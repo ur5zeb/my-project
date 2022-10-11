@@ -1,1 +1,2 @@
 Some text
+Also changd in the man branch
